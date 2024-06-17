@@ -65,6 +65,7 @@ export const createPass = async () => {
         // admissionLevel: "ElysiaJS",
         venueRegionName: "Bangkok",
         venueName: "Chulalongkorn University",
+        venueEntrance: "100",
         venueLocation: {
           latitude: 13.736890436019664,
           longitude: 100.53318181209069,
